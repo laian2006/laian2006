@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats (sau này code nhiều rồi bật phần này)
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=laian2006&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laian2006&theme=tokyonight" alt="GitHub streak" />
