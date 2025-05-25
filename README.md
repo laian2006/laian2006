@@ -5,7 +5,7 @@
 - 🌱 I’m interested in **AI, Machine Learning, Deep Learning**
 - 💬 Ask me about **Python, Git, GitHub, or how to get started in AI as a student**
 - 📫 How to reach me: **binhanxc2006@gmail.com**
-- 📄 Know more about me via [LinkedIn](https://www.linkedin.com/in/binh-an-l%E1%BA%A1i-qu%E1%BB%91c-864744333/)
+- 📄 Know more about me via [LinkedIn](https://www.linkedin.com/in/b%C3%ACnh-an-l%E1%BA%A1i-qu%E1%BB%91c-864744333/)
 - ⚡ Fun fact: I'm building my future one line of code at a time!
 
 ---
